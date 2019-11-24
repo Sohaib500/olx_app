@@ -1,0 +1,78 @@
+.header
+{
+    padding: 10px;
+    min-height: 60px;
+    
+}
+
+.center_col
+{
+    line-height: 60px;
+}
+
+.product_box
+{
+    width: 75%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center;
+}
+
+.product_price
+{
+    font-weight: bold;
+}
+
+.product_desc
+{
+    font-size: 12px;
+}
+
+.product_desc_name
+{
+    font-size: 13px;
+    color: grey;
+}
+
+.location
+{
+    font-size: 10px;
+    color: grey;
+    float: left;
+}
+
+.date
+{
+    font-size: 10px;
+    color: grey;
+    float: right;
+}
+
+.footer_categories
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+/* Bootstrap Classes */
+
+
+
+/* Starting media  quries */
+
+@media(max-width: 870px)
+{
+    .show_hide{
+        display: none;
+    }
+
+}
+
+@media(max-width: 272px)
+{
+    
+}
+
+
+

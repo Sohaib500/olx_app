@@ -1,0 +1,31 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    background-image: url(../../assets/images/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box
+{
+    height: auto;
+}
+
+.txt_sign_up
+{
+    font-size: 14px;
+    float: right;
+}
+
+.card_box_header
+{
+    background-color: rgba(0, 123, 255, 0.8);
+    color: white;
+}
+
+.card_box_body
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
